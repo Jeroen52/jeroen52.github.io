@@ -15,7 +15,7 @@ body {
 {
     width: 100%;
     height: 100%;
-    background: rgba(0,0,0,.2); // Hier kan je aanpassen hoe veel donkerder je het wilt hebben
+    background: rgba(0,0,0,.5); // Hier kan je aanpassen hoe veel donkerder je het wilt hebben
 }
 
 .full {
